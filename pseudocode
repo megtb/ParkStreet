@@ -1,0 +1,24 @@
+To Do:
+
+- main page 
+    - header
+        - link to current tenants
+        - link to current offices for rent
+    - building picture
+    - description
+    - map image for location
+    - footer
+
+- tenants pages - one page w/list?
+    - picture
+    - pp description - style, etc
+    - contact phone
+    - contact e-mail
+    - payments accepted
+
+- openings for rent (default msg if none available)
+    - description of space
+    - lease vs. license
+    - price
+    - who to contact
+
